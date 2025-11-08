@@ -24,7 +24,7 @@ Hierarchical View (Project-Level): Shows resource structure per project, mapping
 
 Task Distribution: Illustrates task allocation by role using dynamic charts to identify capacity and performance trends.
 
-Tools & Technologies:
+* Tools & Technologies:
 
 Microsoft Power BI
 
@@ -34,5 +34,5 @@ Interactive Visuals & Drill-Through Reports
 
 Excel/SharePoint as data sources
 
-Outcome:
+* Outcome:
 Enabled management to gain real-time visibility into project health, resource allocation and productivity levels—supporting proactive decision-making and efficient project execution.
