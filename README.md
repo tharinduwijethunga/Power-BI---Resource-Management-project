@@ -6,19 +6,19 @@
 
 Resource Management Dashboard – Power BI
 
-This interactive Power BI dashboard was developed to monitor and manage project resources, track progress, and visualize team workload efficiently. The solution provides both an organization-wide summary and project-level insights for data-driven decision-making.
+This interactive Power BI dashboard was developed to monitor and manage project resources, track progress, and visualize team workload efficiently. The solution provides both an organisation-wide summary and project-level insights for data-driven decision-making.
 
-Key Features:
+* Key Features:
 
-Executive Overview: Displays total projects, project status (on-track, delayed, in-pipeline), and total active resources.
+Executive Overview: Displays total projects, project status (on-track, delayed, in-pipeline) and total active resources.
 
-Resource Summary: Highlights team composition across roles such as Project Managers, Business Analysts, Developers, QA Engineers, and UI/UX Designers.
+Resource Summary: Highlights team composition across roles such as Project Managers, Business Analysts, Developers, QA Engineers and UI/UX Designers.
 
 Activity Tracking: Monitors key metrics including QA and development progress, new/reopened bugs, and tasks on hold.
 
 Complexity Analysis: Visualizes project distribution by complexity (Low, Medium, High) to support workload balancing.
 
-Resource Utilization: Provides an overview of working vs. idle resources with clear percentage indicators.
+Resource Utilization: Provides an overview of working vs idle resources with clear percentage indicators.
 
 Hierarchical View (Project-Level): Shows resource structure per project, mapping PM → BA → UI/UX → QA → Dev flow.
 
@@ -35,4 +35,4 @@ Interactive Visuals & Drill-Through Reports
 Excel/SharePoint as data sources
 
 Outcome:
-Enabled management to gain real-time visibility into project health, resource allocation, and productivity levels—supporting proactive decision-making and efficient project execution.
+Enabled management to gain real-time visibility into project health, resource allocation and productivity levels—supporting proactive decision-making and efficient project execution.
